@@ -17,3 +17,5 @@ SQL Server For Beginner – Gunadarma University | 2021
 Fundamental Web Programming – Gunadarma University | 2020
 
 Fundamental DBMS – Gunadarma University | 2020
+
+Surat Keterangan Magang – PT. Sinergi Insan Andalan | 2025
